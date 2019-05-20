@@ -335,3 +335,9 @@ figure.snip1301.hover figcaption {
   transition-delay: 0.5s;
 }
 /* End Effect */
+
+/* Start Center Effect */
+.center {
+    text-align: center;
+}
+/* Start Center Effect */
